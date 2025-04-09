@@ -1,7 +1,7 @@
 ﻿
 
 --EXEC sp_columns 'Covid_Deaths_25';
---EXEC sp_columns 'Covid_Viaccinations_25';
+--EXEC sp_columns 'Covid_Vaccinations_25';
 
  -- > SHOWS THE NUMBER OF COLUMNS IN BOTH TABLES. 
 
